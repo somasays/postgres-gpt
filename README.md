@@ -44,7 +44,7 @@ To test the library, we use `pytest` and `unittest.mock`. We also use `tox` to t
 
 ## Contributing
 
-If you'd like to contribute to PostgresGPT, please feel free to open an issue or a pull request on the GitHub repository: https://github.com/username/postgresgpt
+If you'd like to contribute to PostgresGPT, please feel free to open an issue or a pull request on the GitHub repository: https://github.com/somasays/postgres-gpt
 
 ## License
 
